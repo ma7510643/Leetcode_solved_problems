@@ -12,4 +12,16 @@ A collection of my personal solutions to various data structures and algorithms 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ma7510643/Leetcode_solved_problems/tree/master/0205-isomorphic-strings) |
+## Array
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ma7510643/Leetcode_solved_problems/tree/master/0056-merge-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ma7510643/Leetcode_solved_problems/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ma7510643/Leetcode_solved_problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
