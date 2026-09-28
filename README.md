@@ -24,4 +24,16 @@ A collection of my personal solutions to various data structures and algorithms 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ma7510643/Leetcode_solved_problems/tree/master/0056-merge-intervals) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ma7510643/Leetcode_solved_problems/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ma7510643/Leetcode_solved_problems/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ma7510643/Leetcode_solved_problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
